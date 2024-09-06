@@ -2,6 +2,9 @@ body{
     padding: 0px;
     margin: 0px;
 }
-.Font-Family{
-    font-family: "Manrope", sans-serif;
+.Font-Popains-Family{
+    font-family: "Poppins", sans-serif;
+}
+.Font-Anton-Family{
+    font-family: "Anton", sans-serif;
 }
